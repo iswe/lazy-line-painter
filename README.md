@@ -1,6 +1,6 @@
 ![Lazy Line Painter](http://lazylinepainter.info/banner.png)
 
-Lazy Line Painter
+SVG for Lazy Line Painter
 =================
 
 A jQuery plugin for path animation using CSS.
